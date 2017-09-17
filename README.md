@@ -26,6 +26,9 @@ $ open CONSOLA*.TTF
 
 Screenshot
 ----------
+CSS
+![CSS](screenshots/css.png)
+
 HTML
 ![HTML](screenshots/html.png)
 
