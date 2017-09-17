@@ -23,6 +23,11 @@ $ cabextract ppviewer.cab
 $ open CONSOLA*.TTF
 </pre>
 
+if installation fonts doesn't work than you cant cd "consolas-fonts" and run in terminal:
+<pre>
+open CONSOLA*.TTF
+</pre>
+
 
 Screenshot
 ----------
